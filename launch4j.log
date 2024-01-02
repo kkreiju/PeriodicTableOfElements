@@ -1,0 +1,144 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Arjay\Desktop\Periodic Table of Elements\Element.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	Element.exe
+Working dir:	C:\Users\Arjay\Desktop\Periodic Table of Elements\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\Arjay\Desktop\Periodic Table of Elements\jre\bin\javaw.exe (OK)
+Check javac:	C:\Users\Arjay\Desktop\Periodic Table of Elements\jre\bin\javac.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (not found)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_202
+Version string: 1.008.000_202 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (not found)
+Ignore:		1.008.000_202
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\13.0.2
+Version string: 1.013.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-13.0.2\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-13.0.2\bin\javac.exe (OK)
+Match:		1.013.000_002
+Runtime used:	1.013.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-13.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Arjay\Desktop\Periodic Table of Elements\Element.exe"
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Arjay\Desktop\Periodic Table of Elements\Element.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	Element.exe
+Working dir:	C:\Users\Arjay\Desktop\Periodic Table of Elements\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\Arjay\Desktop\Periodic Table of Elements\jre\bin\javaw.exe (OK)
+Check javac:	C:\Users\Arjay\Desktop\Periodic Table of Elements\jre\bin\javac.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (not found)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_202
+Version string: 1.008.000_202 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (not found)
+Ignore:		1.008.000_202
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\13.0.2
+Version string: 1.013.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-13.0.2\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-13.0.2\bin\javac.exe (OK)
+Match:		1.013.000_002
+Runtime used:	1.013.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-13.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Arjay\Desktop\Periodic Table of Elements\Element.exe"
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Arjay\Desktop\Periodic Table of Elements\Element.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	Element.exe
+Working dir:	C:\Users\Arjay\Desktop\Periodic Table of Elements\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\Arjay\Desktop\Periodic Table of Elements\jre\bin\javaw.exe (OK)
+Check javac:	C:\Users\Arjay\Desktop\Periodic Table of Elements\jre\bin\javac.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (not found)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_202
+Version string: 1.008.000_202 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (not found)
+Ignore:		1.008.000_202
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\13.0.2
+Version string: 1.013.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-13.0.2\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-13.0.2\bin\javac.exe (OK)
+Match:		1.013.000_002
+Runtime used:	1.013.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-13.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Arjay\Desktop\Periodic Table of Elements\Element.exe"
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Arjay\Desktop\Periodic Table of Elements\Element.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	Element.exe
+Working dir:	C:\Users\Arjay\Desktop\Periodic Table of Elements\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\Arjay\Desktop\Periodic Table of Elements\jre\bin\javaw.exe (OK)
+Check javac:	C:\Users\Arjay\Desktop\Periodic Table of Elements\jre\bin\javac.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (not found)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_202
+Version string: 1.008.000_202 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (not found)
+Ignore:		1.008.000_202
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\13.0.2
+Version string: 1.013.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-13.0.2\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-13.0.2\bin\javac.exe (OK)
+Match:		1.013.000_002
+Runtime used:	1.013.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-13.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Arjay\Desktop\Periodic Table of Elements\Element.exe"
+Args length:	68/32768 chars
+Exit code:	0
